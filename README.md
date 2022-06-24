@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[ATLP Barefoot normad Project](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[ATLP Barefoot normad Project](https://github.com/atlp-rwanda/elite-bn-be)**
 
 - 🌱 I’m currently learning **flutter**
 
