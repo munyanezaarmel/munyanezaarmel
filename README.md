@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **[ATLP Barefoot normad Project](https://github.com/atlp-rwanda/elite-bn-be)**
 
-- 🌱 I’m currently learning **All i can**
+- 🌱 I’m currently learning All i can
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on OpenSource Projects
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://munyanezaarmel.netlify.app/)**
 
 - 📫 How to reach me **munyaarmel61@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact I play games and go to the GYM very often.
 
 ## 🚀 Languages and Tools:
 
