@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **[ATLP Barefoot normad Project](https://github.com/atlp-rwanda/elite-bn-be)**
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **All i can**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
