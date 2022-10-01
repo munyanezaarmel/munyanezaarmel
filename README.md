@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[ATLP Barefoot normad Project](https://github.com/atlp-rwanda/elite-bn-be)**
+- 🔭 I’m currently working on **[OneUptime open source](https://github.com/OneUptime/oneuptime)**
 
 - 🌱 I’m currently learning All i can
 
