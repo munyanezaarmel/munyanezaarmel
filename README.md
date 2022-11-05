@@ -15,6 +15,9 @@
 
 - ⚡ Fun fact I play games and go to the GYM very often.
 
+## 🏆🏆 Achievements
+[![@munyanezaarmel's Holopin board](https://holopin.me/munyanezaarmel)](https://holopin.io/@munyanezaarmel)
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
