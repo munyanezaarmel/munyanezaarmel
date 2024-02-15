@@ -1,11 +1,10 @@
 <h1 align="center"> Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I'm glad to have you here.</h3>
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[OneUptime open source](https://github.com/OneUptime/oneuptime)**
 
-- 🌱 I’m currently learning All i can
+- 🌱 I’m currently learning All I can
 
 - 👯 I’m looking to collaborate on OpenSource Projects
 
@@ -14,8 +13,6 @@
 
 - ⚡ Fun fact I play games and go to the GYM very often.
 
-## 🏆🏆 Achievements
-[![@munyanezaarmel's Holopin board](https://holopin.me/munyanezaarmel)](https://holopin.io/@munyanezaarmel)
 
 ## 🚀 Languages and Tools:
 
@@ -72,7 +69,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/munyaneza-armel-4b30a8201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/MunyanezaArmel"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 
 </p>
