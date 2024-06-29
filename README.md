@@ -68,7 +68,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/munyaneza-armel-4b30a8201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/armel-munyaneza-4b30a8201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 
 </p>
