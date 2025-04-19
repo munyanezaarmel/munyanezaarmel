@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[OneUptime open source](https://github.com/OneUptime/oneuptime)**
+- 🔭 I’m currently working on **[EnAccess](https://github.com/EnAccess)**
 
 - 🌱 I’m currently learning All I can
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **munyaarmel61@gmail.com**
 
-- ⚡ Fun fact I play games and go to the GYM very often.
+- ⚡ Fun fact I play soccer and go to the GYM very often.
 
 
 ## 🚀 Languages and Tools:
